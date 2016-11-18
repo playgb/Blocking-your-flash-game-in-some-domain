@@ -9,11 +9,11 @@ If the website is not authorized to use your game, you can add it to your blackl
 
 <b>How to get started?</b>
 
--Create a .txt file (example: domains.txt) and host in your server. 
--Write in this file, the domains that you want to block (comma separated). 
--Update the line from the code below, with the address of your list. 
--Upload the <b>crossdomain.xml</b> file in your server.
--Use the code in the file <b>block_domain_as3.fla</b> in the first frame of your game.
+-Create a .txt file (example: domains.txt) and host in your server<br>
+-Write in this file, the domains that you want to block (comma separated)<br>
+-Update the line from the code below, with the address of your list<br>
+-Upload the <b>crossdomain.xml</b> file in your server<br>
+-Use the code in the file <b>block_domain_as3.fla</b> in the first frame of your game.<br>
 
 You can use the same code to do a whitelist too, you will need to change just 1 line. So, if a website is in the .txt file, you run, if it's not there, you block the game.
 
